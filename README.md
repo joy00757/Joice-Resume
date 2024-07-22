@@ -45,7 +45,7 @@
 
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=JoiceJohnson&theme=discord&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=&theme=discord&no-frame=false&no-bg=true&margin-w=4)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Burhanmohammad&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
