@@ -13,7 +13,7 @@
 ![](https://komarev.com/ghpvc/?username=ShivamRohilllaa&color=blueviolet)
 
 ### Reach Me :-
-[![linkedin (3)](https://user-images.githubusercontent.com/59178005/120276459-5598de80-c2d0-11eb-866b-5d3edc680206.png)](www.linkedin.com/in/burhanmohammad/) &nbsp;
+[![linkedin (3)](https://user-images.githubusercontent.com/59178005/120276459-5598de80-c2d0-11eb-866b-5d3edc680206.png)]( https://www.linkedin.com/in/joice-johnson-943b8122 ) &nbsp;
 
 
 # 💻 Tech Stack:
