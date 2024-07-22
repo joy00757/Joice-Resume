@@ -1,4 +1,4 @@
-# Joice-Resume
+# Joice-Portfolio 
 
 # Hi, I am Joice Punnoose Johnson
 
