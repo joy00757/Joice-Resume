@@ -55,8 +55,9 @@
 
 
 
-# Most Starred Repo's:-
+# Additional information:-
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joy00757&repo=E-learning-Django-)](https://github.com//E-learning-Django-) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joy00757&repo=tshirt-store)](https://github.com//tshirt-store)
+(I1)
+
 
 
